@@ -1,2 +1,20 @@
 # ANSIcolor.java
 output statements will be getting colors. 
+[40mHello World
+[41mHello World
+[42mHello World
+[43mHello World
+[44mHello World
+[45mHello World
+[46mHello World
+[47mHello World
+[0mHello World
+[30mHello World
+[31mHello World
+[32mHello World
+[93mHello World
+[33mHello World
+[4mHello World
+[24mHello World
+[5mHello World
+[0mHello World
